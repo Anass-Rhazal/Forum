@@ -392,7 +392,7 @@ font-size: 20px;text-align: center;color: #fff;margin-top: 40px;
       margin-left: 30px;
   }
 
-#close {
+.close {
     position: absolute;
     top: -25px;
     right: 45px;
@@ -466,3 +466,6 @@ width: 90%;
 
 
 }
+
+
+
