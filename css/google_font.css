@@ -1,0 +1,35 @@
+
+  /* lobster-regular - latin */
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/lobster-v18-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Lobster'), local('Lobster-Regular'),
+       url('../fonts/lobster-v18-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/lobster-v18-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/lobster-v18-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/lobster-v18-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/lobster-v18-latin-regular.svg#Lobster') format('svg'); /* Legacy iOS */
+}
+
+
+
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ek Mukta'), local('EkMukta-Regular'), url(http://fonts.gstatic.com/s/ekmukta/v7/tf-BtnFgVmxry6UZcI_2LvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Ek Mukta SemiBold'), local('EkMukta-SemiBold'), url(http://fonts.gstatic.com/s/ekmukta/v7/9EXaIaG9EisTb0ON7WXvdYbN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Ek Mukta';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Ek Mukta Bold'), local('EkMukta-Bold'), url(http://fonts.gstatic.com/s/ekmukta/v7/PTj8SjnLMuoZrJLoiRjMXobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
