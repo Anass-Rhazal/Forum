@@ -468,4 +468,12 @@ width: 90%;
 }
 
 
+    .circle{
+            width: 40px;
+            height: 40px;        
+            border-radius: 50%;
+        }
+        
+     .circle  span {text-align: center;position: relative;top:5px;}
+
 
